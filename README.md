@@ -1,4 +1,4 @@
 # My-Deep-Learning-Experience
-我的深度学习之旅，期盼一个美丽风景，也祝愿自己能坚持下去，无论多么困难
-感谢集智，感谢莫烦，感谢嵩天，感谢燎原，感谢每一位我自学路上帮助我的人，感谢这个开源的世界。。。。
-在路上。。。。
+My journey in deep learning: I look forward to a beautiful landscape and wish myself the strength to persevere, no matter how difficult it may be.
+Thanks to Club JiZhi, Mr.Morvan, Mr.Songtian, Mr.Liaoyuan, and everyone who has helped me on my self-study journey. Thanks to the open-source world.
+I'm on the way!
